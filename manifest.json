@@ -3,7 +3,11 @@
     "name": "三角洲每日密码 快应用",
     "description": "基于VelaOS的三角洲每日密码查看实现",
     "preview": [
-      "1.png"
+      "previews/0.png",
+      "previews/1.png",
+      "previews/2.png",
+      "previews/3.png",
+      "previews/4.png"
     ],
     "icon": "logo.png",
     "source_url": "https://github.com/SmallK111407/DFPasswords_Astrobox",
