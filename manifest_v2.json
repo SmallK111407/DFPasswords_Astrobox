@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "com.akirin.dfpasswords",
+    "restype": "quick_app",
+    "name": "三角洲每日密码 快应用",
+    "description": "基于VelaOS的三角洲每日密码查看实现",
+    "preview": [
+      "1.png"
+    ],
+    "icon": "logo.png",
+    "cover": "1.png",
+    "author": [
+      {
+        "name": "曉凛",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "linux-logo",
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/ehkNWA7J7O"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1.1",
+      "file_name": "com.akirin.dfpasswords.release.1.1.1.rpk"
+    },
+    "xmrw5": {
+      "version": "1.1.1",
+      "file_name": "com.akirin.dfpasswords.release.1.1.1.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.1.1",
+      "file_name": "com.akirin.dfpasswords.release.1.1.1.rpk"
+    },
+    "xmrw6": {
+      "version": "1.1.1",
+      "file_name": "com.akirin.dfpasswords.release.1.1.1.rpk"
+    }
+  },
+  "ext": {}
+}
